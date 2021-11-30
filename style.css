@@ -1,0 +1,26 @@
+body {
+    background-color: rgba(111, 185, 185, 0.87);
+    color:#ffffff;
+}
+
+#header_div {
+    background-color: aqua;
+    color:#243f67;
+}
+
+p {
+    font-size: 18px;
+}
+
+#start_button {
+  font-weight: bold;
+  width: 400px;  
+  font-size: 20px;
+}
+
+#copy_right_footer {
+    width: 1600px;
+    font-size: 35px;
+    background-color: blue;
+    
+}
